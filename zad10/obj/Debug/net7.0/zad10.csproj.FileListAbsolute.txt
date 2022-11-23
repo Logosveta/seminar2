@@ -1,0 +1,15 @@
+C:\Users\Svetlana\Desktop\seminar2\zad10\bin\Debug\net7.0\zad10.exe
+C:\Users\Svetlana\Desktop\seminar2\zad10\bin\Debug\net7.0\zad10.deps.json
+C:\Users\Svetlana\Desktop\seminar2\zad10\bin\Debug\net7.0\zad10.runtimeconfig.json
+C:\Users\Svetlana\Desktop\seminar2\zad10\bin\Debug\net7.0\zad10.dll
+C:\Users\Svetlana\Desktop\seminar2\zad10\bin\Debug\net7.0\zad10.pdb
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.csproj.AssemblyReference.cache
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.AssemblyInfoInputs.cache
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.AssemblyInfo.cs
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.dll
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\refint\zad10.dll
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.pdb
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\zad10.genruntimeconfig.cache
+C:\Users\Svetlana\Desktop\seminar2\zad10\obj\Debug\net7.0\ref\zad10.dll
